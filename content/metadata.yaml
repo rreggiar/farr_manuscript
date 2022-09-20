@@ -1,27 +1,27 @@
 ---
-title: "Manuscript Title"
+title: "Anti-Racism and the Next Generation of Disease Diagnostic Tools"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - liquid-biopsy
+  - RNA
+  - equity
+  - inclusion
+  - racism
+  - diversity
+  - genetics
+  - genomics
+  - anti-racism
+  - engineering
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: rreggiar
+    name: Roman E. Reggiardo
+    initials: RER
+    orcid: 0000-0001-6309-249X
+    twitter: rreggiar
+    email: rreggiar@ucsc.edu
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of Biomolecular Engineering, University of California at Santa Cruz
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
-    corresponding: true
+      - UCSC Baskin Engineering FARR
+      - DDK/KUH F99 DK131504
+

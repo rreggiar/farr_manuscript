@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# UCSC Basking Engineering Anti-Racism Research Fellowship
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
