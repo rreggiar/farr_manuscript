@@ -43,9 +43,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://rreggiar.github.io/farr_manuscript/" />
   <meta name="citation_pdf_url" content="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/6063af6540445401d4193e604e33d52fd01cf3d0/" />
-  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/6063af6540445401d4193e604e33d52fd01cf3d0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/6063af6540445401d4193e604e33d52fd01cf3d0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/f51e9b363cdc58ebe0b39744b9c02411df5ff833/" />
+  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/f51e9b363cdc58ebe0b39744b9c02411df5ff833/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/f51e9b363cdc58ebe0b39744b9c02411df5ff833/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rreggiar.github.io/farr_manuscript/v/6063af6540445401d4193e604e33d52fd01cf3d0/))
+([permalink](https://rreggiar.github.io/farr_manuscript/v/f51e9b363cdc58ebe0b39744b9c02411df5ff833/))
 was automatically generated
-from [rreggiar/farr_manuscript@6063af6](https://github.com/rreggiar/farr_manuscript/tree/6063af6540445401d4193e604e33d52fd01cf3d0)
+from [rreggiar/farr_manuscript@f51e9b3](https://github.com/rreggiar/farr_manuscript/tree/f51e9b363cdc58ebe0b39744b9c02411df5ff833)
 on September 20, 2022.
 </em></small>
 
@@ -87,7 +87,7 @@ on September 20, 2022.
     [rreggiar](https://twitter.com/rreggiar)<br>
   <small>
      Department of Biomolecular Engineering, University of California at Santa Cruz
-     · Funded by UCSC Baskin Engineering FARR; DDK/KUH F99 DK131504
+     · Funded by UCSC Baskin Engineering FARR; NIDDK/KUH F99 DK131504
   </small>
 
 
@@ -98,6 +98,18 @@ on September 20, 2022.
 
 
 ## Abstract {.page_break_before}
+
+
+Various forms of highly technical genetic analyses have a long history of being ignorant of race, ethnicity, class, and sex as well as being co-opted for explicitly eugenic, racist, homophobic, or otherwise hateful purposes. 
+There is a critical ongoing discussion on how modern sequencing technologies can both contribute to reduction of suffering but also drive harmful narratives due to incomplete and/or unrepresentative results being interpreted as evidence for biological superiority or inferiority. 
+
+A new class of medical technologies, called ‘liquid biopsies’, are poised to dramatically impact how and when cancer diagnoses are made by harnessing genetic information. 
+These diagnostic tests account for mutations in one’s genome and/or changes in the abundance of certain expressed genes, measured from a simple blood draw. 
+
+While the promise of liquid biopsies is a future where diagnoses are accessible, accurate, and non-invasive, they face the same potential shortcomings as other genetic tests: without adequate representation during development, it is impossible to say whether diagnostic performance and relevance extends inclusively and equitably across our diverse society. 
+This burgeoning technology is intertwined with an equally impactful, far more pervasive, and demonstrably biased approach to classification problems: machine learning. 
+
+In this report, I intend to both quantify and discuss the relevant barriers to equitable liquid biopsy diagnostics by surveying the existing published data and investigating the sources, details, and diversity of samples used to demonstrate liquid biopsy performance.
 
 
 
