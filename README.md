@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/rreggiar/farr_manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://rreggiar.github.io/farr_manuscript/>.
-The permalink for this webpage version is <https://rreggiar.github.io/farr_manuscript/v/f51e9b363cdc58ebe0b39744b9c02411df5ff833/>.
+The permalink for this webpage version is <https://rreggiar.github.io/farr_manuscript/v/8f92af7d5440a0aa52a73c4eadfd6d777c3e9107/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://rreggiar.github.io/farr_manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`f51e9b363cdc58ebe0b39744b9c02411df5ff833`](https://github.com/rreggiar/farr_manuscript/commit/f51e9b363cdc58ebe0b39744b9c02411df5ff833).
+[`8f92af7d5440a0aa52a73c4eadfd6d777c3e9107`](https://github.com/rreggiar/farr_manuscript/commit/8f92af7d5440a0aa52a73c4eadfd6d777c3e9107).
