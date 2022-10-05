@@ -12,7 +12,7 @@ keywords:
 - anti-racism
 - engineering
 lang: en-US
-date-meta: '2022-09-20'
+date-meta: '2022-10-05'
 author-meta:
 - Roman E. Reggiardo
 header-includes: |-
@@ -25,8 +25,8 @@ header-includes: |-
   <meta name="citation_title" content="Anti-Racism and the Next Generation of Disease Diagnostic Tools" />
   <meta property="og:title" content="Anti-Racism and the Next Generation of Disease Diagnostic Tools" />
   <meta property="twitter:title" content="Anti-Racism and the Next Generation of Disease Diagnostic Tools" />
-  <meta name="dc.date" content="2022-09-20" />
-  <meta name="citation_publication_date" content="2022-09-20" />
+  <meta name="dc.date" content="2022-10-05" />
+  <meta name="citation_publication_date" content="2022-10-05" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://rreggiar.github.io/farr_manuscript/" />
   <meta name="citation_pdf_url" content="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/f51e9b363cdc58ebe0b39744b9c02411df5ff833/" />
-  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/f51e9b363cdc58ebe0b39744b9c02411df5ff833/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/f51e9b363cdc58ebe0b39744b9c02411df5ff833/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/8f92af7d5440a0aa52a73c4eadfd6d777c3e9107/" />
+  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/8f92af7d5440a0aa52a73c4eadfd6d777c3e9107/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/8f92af7d5440a0aa52a73c4eadfd6d777c3e9107/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rreggiar.github.io/farr_manuscript/v/f51e9b363cdc58ebe0b39744b9c02411df5ff833/))
+([permalink](https://rreggiar.github.io/farr_manuscript/v/8f92af7d5440a0aa52a73c4eadfd6d777c3e9107/))
 was automatically generated
-from [rreggiar/farr_manuscript@f51e9b3](https://github.com/rreggiar/farr_manuscript/tree/f51e9b363cdc58ebe0b39744b9c02411df5ff833)
-on September 20, 2022.
+from [rreggiar/farr_manuscript@8f92af7](https://github.com/rreggiar/farr_manuscript/tree/8f92af7d5440a0aa52a73c4eadfd6d777c3e9107)
+on October 5, 2022.
 </em></small>
 
 ## Authors
@@ -110,6 +110,18 @@ While the promise of liquid biopsies is a future where diagnoses are accessible,
 This burgeoning technology is intertwined with an equally impactful, far more pervasive, and demonstrably biased approach to classification problems: machine learning. 
 
 In this report, I intend to both quantify and discuss the relevant barriers to equitable liquid biopsy diagnostics by surveying the existing published data and investigating the sources, details, and diversity of samples used to demonstrate liquid biopsy performance.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
