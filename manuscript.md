@@ -43,9 +43,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://rreggiar.github.io/farr_manuscript/" />
   <meta name="citation_pdf_url" content="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/8f92af7d5440a0aa52a73c4eadfd6d777c3e9107/" />
-  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/8f92af7d5440a0aa52a73c4eadfd6d777c3e9107/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/8f92af7d5440a0aa52a73c4eadfd6d777c3e9107/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/9ae9f45a880a3450cb7eebc044bec2abb735c188/" />
+  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/9ae9f45a880a3450cb7eebc044bec2abb735c188/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/9ae9f45a880a3450cb7eebc044bec2abb735c188/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rreggiar.github.io/farr_manuscript/v/8f92af7d5440a0aa52a73c4eadfd6d777c3e9107/))
+([permalink](https://rreggiar.github.io/farr_manuscript/v/9ae9f45a880a3450cb7eebc044bec2abb735c188/))
 was automatically generated
-from [rreggiar/farr_manuscript@8f92af7](https://github.com/rreggiar/farr_manuscript/tree/8f92af7d5440a0aa52a73c4eadfd6d777c3e9107)
+from [rreggiar/farr_manuscript@9ae9f45](https://github.com/rreggiar/farr_manuscript/tree/9ae9f45a880a3450cb7eebc044bec2abb735c188)
 on October 5, 2022.
 </em></small>
 
@@ -86,7 +86,7 @@ on October 5, 2022.
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [rreggiar](https://twitter.com/rreggiar)<br>
   <small>
-     Department of Biomolecular Engineering, University of California at Santa Cruz
+     Department of Biomolecular Engineering, University of California at Santa Cruz<br>
      · Funded by UCSC Baskin Engineering FARR; NIDDK/KUH F99 DK131504
   </small>
 
@@ -110,6 +110,23 @@ While the promise of liquid biopsies is a future where diagnoses are accessible,
 This burgeoning technology is intertwined with an equally impactful, far more pervasive, and demonstrably biased approach to classification problems: machine learning. 
 
 In this report, I intend to both quantify and discuss the relevant barriers to equitable liquid biopsy diagnostics by surveying the existing published data and investigating the sources, details, and diversity of samples used to demonstrate liquid biopsy performance.
+
+
+
+
+## Introduction {.page_break_before}
+
+*UC Santa Cruz Land Acknowledgement*
+>
+“The land on which we gather is the unceded territory of the Awaswas-speaking Uypi Tribe. The Amah Mutsun Tribal Band, comprised of the descendants of indigenous people taken to missions Santa Cruz and San Juan Bautista during Spanish colonization of the Central Coast, is today working hard to restore traditional stewardship practices on these lands and heal from historical trauma.”
+
+### The evolving frontier of minimally invasive diagnostics
+
+Molecular signatures secreted into extracellular space have long been utilized to reveal pathological events in diverse, potentially ill populations. 
+As the complexity of intended-to-diagnose diseases increases to multi-genic and multi-organ systems, the ability to acquire more complex and broadly informative extracellular signatures is paramount in the development of equivalent diagnostic approaches: **liquid biopsies**.
+Now, at the intersection of contemporary high-throughput Next Generation Sequencing (NGS) and robust machine-learning enabled classification models, liquid biopsies are being developed to sensitively and specifically diagnose diseases in broader at-risk populations.
+While the technologies are primed to deliver a new paradigm in diagnostics that reshape prognostic expectations, there are numerous challenges rooted in equitable representation and meaningful inclusion that require consideration.
+Among them are those questions that have dogged genomics-enabled genetics work in recent decades:
 
 
 
