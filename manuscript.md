@@ -12,7 +12,7 @@ keywords:
 - anti-racism
 - engineering
 lang: en-US
-date-meta: '2022-10-05'
+date-meta: '2022-10-06'
 author-meta:
 - Roman E. Reggiardo
 header-includes: |-
@@ -25,8 +25,8 @@ header-includes: |-
   <meta name="citation_title" content="Anti-Racism and the Next Generation of Disease Diagnostic Tools" />
   <meta property="og:title" content="Anti-Racism and the Next Generation of Disease Diagnostic Tools" />
   <meta property="twitter:title" content="Anti-Racism and the Next Generation of Disease Diagnostic Tools" />
-  <meta name="dc.date" content="2022-10-05" />
-  <meta name="citation_publication_date" content="2022-10-05" />
+  <meta name="dc.date" content="2022-10-06" />
+  <meta name="citation_publication_date" content="2022-10-06" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://rreggiar.github.io/farr_manuscript/" />
   <meta name="citation_pdf_url" content="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/9ae9f45a880a3450cb7eebc044bec2abb735c188/" />
-  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/9ae9f45a880a3450cb7eebc044bec2abb735c188/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/9ae9f45a880a3450cb7eebc044bec2abb735c188/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/3bd20b5624310f940cc92bdb895eed9ee84f9a3e/" />
+  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/3bd20b5624310f940cc92bdb895eed9ee84f9a3e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/3bd20b5624310f940cc92bdb895eed9ee84f9a3e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rreggiar.github.io/farr_manuscript/v/9ae9f45a880a3450cb7eebc044bec2abb735c188/))
+([permalink](https://rreggiar.github.io/farr_manuscript/v/3bd20b5624310f940cc92bdb895eed9ee84f9a3e/))
 was automatically generated
-from [rreggiar/farr_manuscript@9ae9f45](https://github.com/rreggiar/farr_manuscript/tree/9ae9f45a880a3450cb7eebc044bec2abb735c188)
-on October 5, 2022.
+from [rreggiar/farr_manuscript@3bd20b5](https://github.com/rreggiar/farr_manuscript/tree/3bd20b5624310f940cc92bdb895eed9ee84f9a3e)
+on October 6, 2022.
 </em></small>
 
 ## Authors
@@ -99,7 +99,6 @@ on October 5, 2022.
 
 ## Abstract {.page_break_before}
 
-
 Various forms of highly technical genetic analyses have a long history of being ignorant of race, ethnicity, class, and sex as well as being co-opted for explicitly eugenic, racist, homophobic, or otherwise hateful purposes. 
 There is a critical ongoing discussion on how modern sequencing technologies can both contribute to reduction of suffering but also drive harmful narratives due to incomplete and/or unrepresentative results being interpreted as evidence for biological superiority or inferiority. 
 
@@ -111,22 +110,36 @@ This burgeoning technology is intertwined with an equally impactful, far more pe
 
 In this report, I intend to both quantify and discuss the relevant barriers to equitable liquid biopsy diagnostics by surveying the existing published data and investigating the sources, details, and diversity of samples used to demonstrate liquid biopsy performance.
 
-
+*<u>UC Santa Cruz Land Acknowledgement</u>*  
+> “The land on which we gather is the unceded territory of the Awaswas-speaking Uypi Tribe. 
+> The Amah Mutsun Tribal Band, comprised of the descendants of indigenous people taken to missions Santa Cruz and San Juan Bautista during Spanish colonization of the Central Coast, is today working hard to restore traditional stewardship practices on these lands and heal from historical trauma.”
 
 
 ## Introduction {.page_break_before}
 
-*UC Santa Cruz Land Acknowledgement*
->
-“The land on which we gather is the unceded territory of the Awaswas-speaking Uypi Tribe. The Amah Mutsun Tribal Band, comprised of the descendants of indigenous people taken to missions Santa Cruz and San Juan Bautista during Spanish colonization of the Central Coast, is today working hard to restore traditional stewardship practices on these lands and heal from historical trauma.”
-
-### The evolving frontier of minimally invasive diagnostics
+### At the forefront of diagnostic technology
 
 Molecular signatures secreted into extracellular space have long been utilized to reveal pathological events in diverse, potentially ill populations. 
-As the complexity of intended-to-diagnose diseases increases to multi-genic and multi-organ systems, the ability to acquire more complex and broadly informative extracellular signatures is paramount in the development of equivalent diagnostic approaches: **liquid biopsies**.
-Now, at the intersection of contemporary high-throughput Next Generation Sequencing (NGS) and robust machine-learning enabled classification models, liquid biopsies are being developed to sensitively and specifically diagnose diseases in broader at-risk populations.
+
+As the complexity of intended-to-diagnose diseases increases to multi-genic and multi-organ systems, the ability to acquire more complex and broadly informative extracellular signatures is paramount in the development of equivalent diagnostic approaches: Next Generation Sequecing (NGS) **liquid biopsies**.
+
+Now, at the intersection of contemporary high-throughput NGS and robust machine-learning enabled classification models, liquid biopsies are being developed to sensitively and specifically diagnose diseases in broader at-risk populations.
 While the technologies are primed to deliver a new paradigm in diagnostics that reshape prognostic expectations, there are numerous challenges rooted in equitable representation and meaningful inclusion that require consideration.
-Among them are those questions that have dogged genomics-enabled genetics work in recent decades:
+Among them are those questions that have dogged genomics-enabled genetics research in recent decades:
+
+- *Who is data generated by? Who is data generated for?*  
+- *How is data stored and who owns it?*  
+- *Who benefits from the analyses and technologies built upon biomedical datasets?*  
+- *How are social labels used to contextualize analysis?*  
+
+This article seeks to contextualize the advent of minimally invasive, genetics- and genomics-based diagnostics within the current efforts to make genomics research and clinical development more equitable and inclusive endeavors.
+In paricular, much has been made of the bias and danger inherent to proclamations derived from currently limited Human genomes and studies.
+Here, the focus will be placed on the noisier, more heterogeneous output of the genome: *Transcription*.
+As RNA expression becomes a critical tool in diagnosing disease, considering the intersection of this data-rich event with current challenges to genomic studies is critical to understanding its future role as a clinical diagnostic tool.
+
+### A brief history of how we decide who is sick
+
+
 
 
 
