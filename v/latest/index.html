@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Roman E. Reggiardo" />
-  <meta name="dcterms.date" content="2022-10-05" />
+  <meta name="dcterms.date" content="2022-10-06" />
   <meta name="keywords" content="liquid-biopsy, RNA, equity, inclusion, racism, diversity, genetics, genomics, anti-racism, engineering" />
   <title>Anti-Racism and the Next Generation of Disease Diagnostic Tools</title>
   <style>
@@ -44,8 +44,8 @@
   <meta name="citation_title" content="Anti-Racism and the Next Generation of Disease Diagnostic Tools" />
   <meta property="og:title" content="Anti-Racism and the Next Generation of Disease Diagnostic Tools" />
   <meta property="twitter:title" content="Anti-Racism and the Next Generation of Disease Diagnostic Tools" />
-  <meta name="dc.date" content="2022-10-05" />
-  <meta name="citation_publication_date" content="2022-10-05" />
+  <meta name="dc.date" content="2022-10-06" />
+  <meta name="citation_publication_date" content="2022-10-06" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -62,9 +62,9 @@
   <meta name="citation_fulltext_html_url" content="https://rreggiar.github.io/farr_manuscript/" />
   <meta name="citation_pdf_url" content="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/9ae9f45a880a3450cb7eebc044bec2abb735c188/" />
-  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/9ae9f45a880a3450cb7eebc044bec2abb735c188/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/9ae9f45a880a3450cb7eebc044bec2abb735c188/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/3bd20b5624310f940cc92bdb895eed9ee84f9a3e/" />
+  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/3bd20b5624310f940cc92bdb895eed9ee84f9a3e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/3bd20b5624310f940cc92bdb895eed9ee84f9a3e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -81,10 +81,10 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://rreggiar.github.io/farr_manuscript/v/9ae9f45a880a3450cb7eebc044bec2abb735c188/">permalink</a>)
+(<a href="https://rreggiar.github.io/farr_manuscript/v/3bd20b5624310f940cc92bdb895eed9ee84f9a3e/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/rreggiar/farr_manuscript/tree/9ae9f45a880a3450cb7eebc044bec2abb735c188">rreggiar/farr_manuscript@9ae9f45</a>
-on October 5, 2022.
+from <a href="https://github.com/rreggiar/farr_manuscript/tree/3bd20b5624310f940cc92bdb895eed9ee84f9a3e">rreggiar/farr_manuscript@3bd20b5</a>
+on October 6, 2022.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
@@ -112,16 +112,30 @@ These diagnostic tests account for mutations in one’s genome and/or changes in
 <p>While the promise of liquid biopsies is a future where diagnoses are accessible, accurate, and non-invasive, they face the same potential shortcomings as other genetic tests: without adequate representation during development, it is impossible to say whether diagnostic performance and relevance extends inclusively and equitably across our diverse society.
 This burgeoning technology is intertwined with an equally impactful, far more pervasive, and demonstrably biased approach to classification problems: machine learning.</p>
 <p>In this report, I intend to both quantify and discuss the relevant barriers to equitable liquid biopsy diagnostics by surveying the existing published data and investigating the sources, details, and diversity of samples used to demonstrate liquid biopsy performance.</p>
+<p><em><u>UC Santa Cruz Land Acknowledgement</u></em><br />
+&gt; “The land on which we gather is the unceded territory of the Awaswas-speaking Uypi Tribe.
+&gt; The Amah Mutsun Tribal Band, comprised of the descendants of indigenous people taken to missions Santa Cruz and San Juan Bautista during Spanish colonization of the Central Coast, is today working hard to restore traditional stewardship practices on these lands and heal from historical trauma.”</p>
 <h2 class="page_break_before" id="introduction">Introduction</h2>
-<p><em>UC Santa Cruz Land Acknowledgement</em>
-&gt;
-“The land on which we gather is the unceded territory of the Awaswas-speaking Uypi Tribe. The Amah Mutsun Tribal Band, comprised of the descendants of indigenous people taken to missions Santa Cruz and San Juan Bautista during Spanish colonization of the Central Coast, is today working hard to restore traditional stewardship practices on these lands and heal from historical trauma.”</p>
-<h3 id="the-evolving-frontier-of-minimally-invasive-diagnostics">The evolving frontier of minimally invasive diagnostics</h3>
-<p>Molecular signatures secreted into extracellular space have long been utilized to reveal pathological events in diverse, potentially ill populations.
-As the complexity of intended-to-diagnose diseases increases to multi-genic and multi-organ systems, the ability to acquire more complex and broadly informative extracellular signatures is paramount in the development of equivalent diagnostic approaches: <strong>liquid biopsies</strong>.
-Now, at the intersection of contemporary high-throughput Next Generation Sequencing (NGS) and robust machine-learning enabled classification models, liquid biopsies are being developed to sensitively and specifically diagnose diseases in broader at-risk populations.
+<h3 id="at-the-forefront-of-diagnostic-technology">At the forefront of diagnostic technology</h3>
+<p>Molecular signatures secreted into extracellular space have long been utilized to reveal pathological events in diverse, potentially ill populations.</p>
+<p>As the complexity of intended-to-diagnose diseases increases to multi-genic and multi-organ systems, the ability to acquire more complex and broadly informative extracellular signatures is paramount in the development of equivalent diagnostic approaches: Next Generation Sequecing (NGS) <strong>liquid biopsies</strong>.</p>
+<p>Now, at the intersection of contemporary high-throughput NGS and robust machine-learning enabled classification models, liquid biopsies are being developed to sensitively and specifically diagnose diseases in broader at-risk populations.
 While the technologies are primed to deliver a new paradigm in diagnostics that reshape prognostic expectations, there are numerous challenges rooted in equitable representation and meaningful inclusion that require consideration.
-Among them are those questions that have dogged genomics-enabled genetics work in recent decades:</p>
+Among them are those questions that have dogged genomics-enabled genetics research in recent decades:</p>
+<ul>
+<li><em>Who is data generated by? Who is data generated for?</em><br />
+</li>
+<li><em>How is data stored and who owns it?</em><br />
+</li>
+<li><em>Who benefits from the analyses and technologies built upon biomedical datasets?</em><br />
+</li>
+<li><em>How are social labels used to contextualize analysis?</em></li>
+</ul>
+<p>This article seeks to contextualize the advent of minimally invasive, genetics- and genomics-based diagnostics within the current efforts to make genomics research and clinical development more equitable and inclusive endeavors.
+In paricular, much has been made of the bias and danger inherent to proclamations derived from currently limited Human genomes and studies.
+Here, the focus will be placed on the noisier, more heterogeneous output of the genome: <em>Transcription</em>.
+As RNA expression becomes a critical tool in diagnosing disease, considering the intersection of this data-rich event with current challenges to genomic studies is critical to understanding its future role as a clinical diagnostic tool.</p>
+<h3 id="a-brief-history-of-how-we-decide-who-is-sick">A brief history of how we decide who is sick</h3>
 <h2 class="page_break_before" id="references">References</h2>
 <!-- Explicitly insert bibliography here -->
 <div id="refs" role="doc-bibliography">
