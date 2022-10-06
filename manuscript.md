@@ -43,9 +43,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://rreggiar.github.io/farr_manuscript/" />
   <meta name="citation_pdf_url" content="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/3bd20b5624310f940cc92bdb895eed9ee84f9a3e/" />
-  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/3bd20b5624310f940cc92bdb895eed9ee84f9a3e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/3bd20b5624310f940cc92bdb895eed9ee84f9a3e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/b1cd9905dea02dfb74d4b733e7f942c95163ca41/" />
+  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/b1cd9905dea02dfb74d4b733e7f942c95163ca41/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/b1cd9905dea02dfb74d4b733e7f942c95163ca41/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rreggiar.github.io/farr_manuscript/v/3bd20b5624310f940cc92bdb895eed9ee84f9a3e/))
+([permalink](https://rreggiar.github.io/farr_manuscript/v/b1cd9905dea02dfb74d4b733e7f942c95163ca41/))
 was automatically generated
-from [rreggiar/farr_manuscript@3bd20b5](https://github.com/rreggiar/farr_manuscript/tree/3bd20b5624310f940cc92bdb895eed9ee84f9a3e)
+from [rreggiar/farr_manuscript@b1cd990](https://github.com/rreggiar/farr_manuscript/tree/b1cd9905dea02dfb74d4b733e7f942c95163ca41)
 on October 6, 2022.
 </em></small>
 
@@ -112,12 +112,18 @@ In this report, I intend to both quantify and discuss the relevant barriers to e
 
 *<u>UC Santa Cruz Land Acknowledgement</u>*  
 > “The land on which we gather is the unceded territory of the Awaswas-speaking Uypi Tribe. 
-> The Amah Mutsun Tribal Band, comprised of the descendants of indigenous people taken to missions Santa Cruz and San Juan Bautista during Spanish colonization of the Central Coast, is today working hard to restore traditional stewardship practices on these lands and heal from historical trauma.”
+> The Amah Mutsun Tribal Band, comprised of the descendants of indigenous people taken to 
+> missions Santa Cruz and San Juan Bautista during Spanish colonization of the Central Coast, 
+> is today working hard to restore traditional stewardship practices on these lands and heal from historical trauma.”
 
 
 ## Introduction {.page_break_before}
 
-### At the forefront of diagnostic technology
+Diseases, particularly cancer, must be identified and characterized before effective therapies can be applied.
+To make a diagnosis as such, there must be clearly "defined characteristics", also known as "biomarkers", detected at abnormal abundance relative to a pre-defined standard.
+Historically, these biomarkers have enabled the detection 
+
+### Genomics at the forefront of diagnostic technology
 
 Molecular signatures secreted into extracellular space have long been utilized to reveal pathological events in diverse, potentially ill populations. 
 
@@ -137,7 +143,6 @@ In paricular, much has been made of the bias and danger inherent to proclamation
 Here, the focus will be placed on the noisier, more heterogeneous output of the genome: *Transcription*.
 As RNA expression becomes a critical tool in diagnosing disease, considering the intersection of this data-rich event with current challenges to genomic studies is critical to understanding its future role as a clinical diagnostic tool.
 
-### A brief history of how we decide who is sick
 
 
 
