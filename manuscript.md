@@ -12,7 +12,7 @@ keywords:
 - anti-racism
 - engineering
 lang: en-US
-date-meta: '2022-10-06'
+date-meta: '2022-12-01'
 author-meta:
 - Roman E. Reggiardo
 header-includes: |-
@@ -25,8 +25,8 @@ header-includes: |-
   <meta name="citation_title" content="Anti-Racism and the Next Generation of Disease Diagnostic Tools" />
   <meta property="og:title" content="Anti-Racism and the Next Generation of Disease Diagnostic Tools" />
   <meta property="twitter:title" content="Anti-Racism and the Next Generation of Disease Diagnostic Tools" />
-  <meta name="dc.date" content="2022-10-06" />
-  <meta name="citation_publication_date" content="2022-10-06" />
+  <meta name="dc.date" content="2022-12-01" />
+  <meta name="citation_publication_date" content="2022-12-01" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://rreggiar.github.io/farr_manuscript/" />
   <meta name="citation_pdf_url" content="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rreggiar.github.io/farr_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/b1cd9905dea02dfb74d4b733e7f942c95163ca41/" />
-  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/b1cd9905dea02dfb74d4b733e7f942c95163ca41/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/b1cd9905dea02dfb74d4b733e7f942c95163ca41/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rreggiar.github.io/farr_manuscript/v/c1513e5ee60646dd32485b39212ea8c3c6aa49f0/" />
+  <meta name="manubot_html_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/c1513e5ee60646dd32485b39212ea8c3c6aa49f0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rreggiar.github.io/farr_manuscript/v/c1513e5ee60646dd32485b39212ea8c3c6aa49f0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rreggiar.github.io/farr_manuscript/v/b1cd9905dea02dfb74d4b733e7f942c95163ca41/))
+([permalink](https://rreggiar.github.io/farr_manuscript/v/c1513e5ee60646dd32485b39212ea8c3c6aa49f0/))
 was automatically generated
-from [rreggiar/farr_manuscript@b1cd990](https://github.com/rreggiar/farr_manuscript/tree/b1cd9905dea02dfb74d4b733e7f942c95163ca41)
-on October 6, 2022.
+from [rreggiar/farr_manuscript@c1513e5](https://github.com/rreggiar/farr_manuscript/tree/c1513e5ee60646dd32485b39212ea8c3c6aa49f0)
+on December 1, 2022.
 </em></small>
 
 ## Authors
@@ -119,18 +119,22 @@ In this report, I intend to both quantify and discuss the relevant barriers to e
 
 ## Introduction {.page_break_before}
 
-Diseases, particularly cancer, must be identified and characterized before effective therapies can be applied.
-To make a diagnosis as such, there must be clearly "defined characteristics", also known as "biomarkers", detected at abnormal abundance relative to a pre-defined standard.
-Historically, these biomarkers have enabled the detection 
+Disease or illness, particularly cancer, must be identified and characterized before effective therapies can be applied. 
+To make a diagnosis as such, there must be clearly "defined characteristics", also known as "biomarkers", detected at abnormal abundance relative to a pre-defined standard [@pubmed:27010052]. 
+Recent advances in diagnostic technology have enabled the creation of tests that rely on dozens or hundreds biomarkers.
+This increased complexity, and in many cases improved performance, does not yet guarantee truly robust performance insulated from the pitfalls that have faced all of medicine and particularly modern diagnostics. 
 
 ### Genomics at the forefront of diagnostic technology
 
-Molecular signatures secreted into extracellular space have long been utilized to reveal pathological events in diverse, potentially ill populations. 
+Molecular signatures available in biofluids have long been utilized to identify pathological events in diverse, at-risk populations.
+Blood glucose concentration is used to continuously monitor diabetes patients, urine has been used to detect pregnancies and prostate cancer [@doi:10.1016/j.urology.2006.12.014], bronchial fluid captured via Bronchoalveolar lavage was considered a "liquid biopsy" of the lungs -- patient lung health could be assessed by the abundance and/or identity of components in the lavage[@pubmed:2795925].
 
-As the complexity of intended-to-diagnose diseases increases to multi-genic and multi-organ systems, the ability to acquire more complex and broadly informative extracellular signatures is paramount in the development of equivalent diagnostic approaches: Next Generation Sequecing (NGS) **liquid biopsies**.
 
-Now, at the intersection of contemporary high-throughput NGS and robust machine-learning enabled classification models, liquid biopsies are being developed to sensitively and specifically diagnose diseases in broader at-risk populations.
-While the technologies are primed to deliver a new paradigm in diagnostics that reshape prognostic expectations, there are numerous challenges rooted in equitable representation and meaningful inclusion that require consideration.
+
+As the complexity of intended-to-diagnose diseases increases to multi-genic pathologies and multi-organ systems, the ability to acquire more complex and broadly informative extracellular signatures is paramount in the development of equivalent diagnostic approaches: Next Generation Sequecing (NGS) **liquid biopsies**.
+
+Now, at the intersection of contemporary high-throughput NGS and robust machine-learning enabled classification models, liquid biopsies are being developed to sensitively and specifically diagnose diseases in broader at-risk populations. 
+While the technologies are primed to deliver a new paradigm in diagnostics that reshape prognostic expectations, there are numerous challenges rooted in equitable representation and meaningful inclusion that require consideration. 
 Among them are those questions that have dogged genomics-enabled genetics research in recent decades:
 
 - *Who is data generated by? Who is data generated for?*  
@@ -138,10 +142,16 @@ Among them are those questions that have dogged genomics-enabled genetics resear
 - *Who benefits from the analyses and technologies built upon biomedical datasets?*  
 - *How are social labels used to contextualize analysis?*  
 
-This article seeks to contextualize the advent of minimally invasive, genetics- and genomics-based diagnostics within the current efforts to make genomics research and clinical development more equitable and inclusive endeavors.
-In paricular, much has been made of the bias and danger inherent to proclamations derived from currently limited Human genomes and studies.
-Here, the focus will be placed on the noisier, more heterogeneous output of the genome: *Transcription*.
+This article seeks to contextualize the advent of minimally invasive, genetics- and genomics-based diagnostics within the current efforts to make genomics research and clinical development equitable and inclusive endeavors. 
+In paricular, much has been made of the bias and danger inherent to proclamations derived from currently limited Human genomes and studies. 
+Here the focus will be placed on the noisier, more heterogeneous output of the genome: *Transcription*.
 As RNA expression becomes a critical tool in diagnosing disease, considering the intersection of this data-rich event with current challenges to genomic studies is critical to understanding its future role as a clinical diagnostic tool.
+
+### DNA in the clinic, RNA at the bench
+
+Revelatory applications of RNA to vaccines developed against SARS-CoV-2 infection notwithstanding, RNA has lagged behind DNA as a clinical tool.
+
+
 
 
 
