@@ -11,6 +11,10 @@ content/02.introduction.md:4:pre
 content/02.introduction.md:5:biomarkers
 content/02.introduction.md:10:biofluids
 content/02.introduction.md:11:Bronchoalveolar
+content/02.introduction.md:12:bronchoalveolar
+content/02.introduction.md:12:chorionic
+content/02.introduction.md:12:gonadotropin
+content/02.introduction.md:12:noncoding
 content/02.introduction.md:15:genic
 content/02.introduction.md:15:NGS
 content/02.introduction.md:15:pathologies
